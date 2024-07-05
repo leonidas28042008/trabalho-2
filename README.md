@@ -20,9 +20,6 @@
             </nav>
         </div>
     </header>
-
-    <main class="container">
-        <section class="destaques">
             <h2>Produtos em Destaque</h2>
             <div class="produto">
                 <img src="camiseta_manga_curta_colegio_civico_militar_1885_1_f071fc7256da2f8c2ed5ff52b3252a63.webp" alt="camisa">
@@ -52,15 +49,4 @@
         </section>
 
         <section class="sobre">
-            <h2>Sobre Nossa Empresa</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget leo sed dolor congue tincidunt.</p>
-        </section>
-    </main>
-
-    <footer>
-        <div class="container">
-            <p>&copy; 2024 Venda de Uniformes Escolares. Todos os direitos reservados.</p>
-        </div>
-    </footer>
-</body>
-</html>
+        
